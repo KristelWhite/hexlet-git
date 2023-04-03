@@ -1,2 +1,3 @@
-git is awesome!
-expetiment with amend
+git is realy awesome!
+something important
+splite changes
